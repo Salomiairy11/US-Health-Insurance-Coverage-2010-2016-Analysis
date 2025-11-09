@@ -8,10 +8,11 @@ The years 2010 through 2016 were a pivotal period for healthcare in the United S
 
 This analysis examines shifts in uninsured rates, Medicaid and Medicare enrollment, participation in marketplace exchanges, and employer-provided insurance. By uncovering these trends, the project aims to support informed policymaking and contribute to efforts that expand healthcare access for all Americans. Join us as we explore insights from this critical period in health insurance coverage, working toward a more equitable healthcare system.
 
-**Tools and Libraries Used:**  
-
-Python, Pandas, Matplotlib, Plotly
----
+## Tools Used
+- Python  
+- Pandas   
+- Matplotlib  
+- Plotly 
 
 ## Objectives
 
